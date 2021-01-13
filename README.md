@@ -1,4 +1,4 @@
-# flutter_app_2
+# IEEE_UNINA_APP
 
 A new Flutter application.
 
